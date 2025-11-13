@@ -3,6 +3,8 @@
 - Underlying page/routing uses React Router
 
 ### Frontend Folder Structure
+**Make sure you are reading the below in code view mode or markdown preview for better visibility of the folder structure**
+
 frontend/
 ├── src/
 │   ├── components/       # Reusable UI components
